@@ -89,3 +89,6 @@ target/
 .mypy_cache/
 /data
 /models
+
+# Distribution / packaging
+/dist
